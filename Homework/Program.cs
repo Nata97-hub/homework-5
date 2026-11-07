@@ -6,7 +6,7 @@ using static System.Console;
 
 
 //namespace Homework
-//namespace Homework
+//namespace Homework5.1
 
 
 
